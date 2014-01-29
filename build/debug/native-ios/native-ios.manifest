@@ -1,0 +1,22 @@
+CACHE MANIFEST
+
+#9368087db54b4cf588be4d590055833d version undefined
+
+CACHE:
+resources/icons/android36.png
+resources/icons/android48.png
+resources/icons/android72.png
+resources/icons/android96.png
+resources/icons/icon512.png
+resources/icons/ios114.png
+resources/icons/ios144.png
+resources/icons/ios57.png
+resources/icons/ios72.png
+resources/splash/HOWTO.md
+index.html
+native-ios.js
+
+FALLBACK:
+
+NETWORK:
+*
