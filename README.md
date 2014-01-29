@@ -1,0 +1,2 @@
+This is a demo Game Closure project that utilizes the box2D physics engine. The original javascript source was ported over to the js.io class style. You can obtain the original source from http://box2d-js.sourceforge.net/. Please note that I am not the original author of the original source, however I did do my best to port the original source so the engine could be utilized via a Game Closure project. I do not warrant that it is completely defect free. 
+  
